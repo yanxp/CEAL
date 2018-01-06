@@ -1,5 +1,5 @@
 # CEAL
-The code for {
+The code is unofficial  for {
 
 Cost-Effective Active Learning for Deep Image Classification
 
